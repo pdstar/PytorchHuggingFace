@@ -1,6 +1,5 @@
-# PytorchHuggingFace
-PyTorch and HuggingFace scavenger hunt!
-PyTorch and HuggingFace scavenger hunt!
+
+# PyTorch and HuggingFace scavenger hunt!
 PyTorch and HuggingFace have emerged as powerful tools for developing and deploying neural networks.
 
 In this scavenger hunt, we will explore the capabilities of PyTorch and HuggingFace, uncovering hidden treasures on the way.
