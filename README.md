@@ -6,9 +6,9 @@ In this scavenger hunt, we will explore the capabilities of PyTorch and HuggingF
 
 We have two parts:
 
-Familiarize yourself with PyTorch
-Get to know HuggingFace
-Familiarize yourself with PyTorch
+* Familiarize yourself with PyTorch
+* Get to know HuggingFace
+ ## Familiarize yourself with PyTorch
 Learn the basics of PyTorch, including tensors, neural net parts, loss functions, and optimizers. This will provide a foundation for understanding and utilizing its capabilities in developing and training neural networks.
 
 PyTorch tensors
